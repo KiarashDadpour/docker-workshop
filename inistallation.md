@@ -9,3 +9,7 @@ Before you begin, ensure that you have administrative access to your Linux distr
 ## Step 1: Install Docker
 
 ### Ubuntu/Debian:
+
+```bash
+sudo apt-get update
+sudo apt-get install docker.io
