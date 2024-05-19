@@ -13,4 +13,8 @@ Before you begin, ensure that you have administrative access to your Linux distr
 ```bash
 sudo apt-get update
 sudo apt-get install docker.io
+```
 
+### Ubuntu/Debian:
+```bash
+sudo yum install docker
