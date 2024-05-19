@@ -15,6 +15,6 @@ sudo apt-get update
 sudo apt-get install docker.io
 ```
 
-### Ubuntu/Debian:
+### Cent OS:
 ```bash
 sudo yum install docker
