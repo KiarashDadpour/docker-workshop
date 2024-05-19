@@ -7,8 +7,10 @@
    - where we should use Docker ?
 - Docker images and containers
    - Docker containers
-      - first mini project
+      - 1st mini project
    - Docker images
    - Dockerfile
-      - second mini project
+      - 2nd mini project
 - Docker compose and swarm
+   -
+      - 3rd mini project
