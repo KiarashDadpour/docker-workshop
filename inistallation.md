@@ -20,4 +20,4 @@ sudo apt-get install docker.io
 
 ### Cent OS:
 ```bash
-sudo yum install docker
+sudo yum install -y docker-ce docker-ce-cli containerd.io
