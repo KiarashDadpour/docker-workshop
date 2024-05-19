@@ -21,3 +21,9 @@ sudo apt-get install docker.io
 ### Cent OS:
 ```bash
 sudo yum install -y docker-ce docker-ce-cli containerd.io
+```
+
+### Fedora:
+```bash
+sudo dnf install docker-ce docker-ce-cli containerd.io
+```
