@@ -12,5 +12,5 @@
    - Dockerfile
       - 2nd mini project
 - Docker compose and swarm
-   -
-      - 3rd mini project
+  - multi container programms 
+     - 3rd mini project
