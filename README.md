@@ -1,6 +1,5 @@
-# Docker
-### docker workshop
-#### syllabes: 
+# Docker Workshop
+## syllabes: 
 - intro
    - what is the Docker ?
    - why we use Docker ?
