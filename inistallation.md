@@ -14,8 +14,9 @@ Before you begin, ensure that you have administrative access to your Linux distr
 ### Ubuntu/Debian:
 
 ```bash
-sudo apt-get update
-sudo apt-get install docker.io
+sudo apt update
+sudo apt install -y apt-transport-https ca-certificates curl software-properties-common
+
 ```
 
 ### Cent OS:
