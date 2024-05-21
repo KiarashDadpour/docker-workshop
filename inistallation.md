@@ -36,10 +36,12 @@ sudo yum install -y docker-ce docker-ce-cli containerd.io
 ```
 
 ### Fedora:
+1. Open a terminal.
+2. Run the following commands:
 ```bash
 sudo dnf check-update
 sudo dnf install -y dnf-plugins-core
 sudo dnf config-manager --add-repo=https://download.docker.com/linux/fedora/docker-ce.repo
-sudo dnf install docker-ce docker-ce-cli containerd.io
-sudo systemctl start docker
+sudo dnf install -y docker-ce docker-ce-cli containerd.io
+
 ```
