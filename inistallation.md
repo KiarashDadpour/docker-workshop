@@ -12,7 +12,8 @@ Before you begin, ensure that you have administrative access to your Linux distr
 ## Step 1: Install Docker
 
 ### Ubuntu/Debian:
-
+1. Open a terminal.
+2. Run the following commands:
 ```bash
 sudo apt update
 sudo apt install -y apt-transport-https ca-certificates curl software-properties-common
