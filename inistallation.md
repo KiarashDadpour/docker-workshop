@@ -45,3 +45,5 @@ sudo dnf config-manager --add-repo=https://download.docker.com/linux/fedora/dock
 sudo dnf install -y docker-ce docker-ce-cli containerd.io
 
 ```
+## Step 2: Start Docker Service
+
