@@ -51,4 +51,10 @@ sudo dnf install -y docker-ce docker-ce-cli containerd.io
 sudo systemctl start docker
 ```
 
+## Step 3: Verify Installation
+- Run the following command to verify that Docker is installed correctly:
+```bash
+docker --version
+```
+
 
