@@ -34,5 +34,7 @@ sudo systemctl start docker
 
 ### Fedora:
 ```bash
+sudo dnf check-update
+sudo dnf install -y dnf-plugins-core
 
 ```
