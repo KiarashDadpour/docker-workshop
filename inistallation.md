@@ -56,5 +56,24 @@ sudo systemctl start docker
 ```bash
 docker --version
 ```
+## Step 4: Pull Docker Images
+- MySQL:
+```bash
+docker pull mysql:latest
+
+```
+- Nginx:
+```bash
+docker pull nginx:latest
+
+  ```
+- Redis:
+```bash
+docker pull redis:latest
+
+  ```
+
+### You're all set up! Attend the workshop and enjoy learning about Docker.
+
 
 
