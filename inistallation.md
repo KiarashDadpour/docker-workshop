@@ -46,4 +46,9 @@ sudo dnf install -y docker-ce docker-ce-cli containerd.io
 
 ```
 ## Step 2: Start Docker Service
+- After installation, start the Docker service using the following command:
+```bash
+sudo systemctl start docker
+```
+
 
