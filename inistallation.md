@@ -9,7 +9,7 @@
 
 Before you begin, ensure that you have administrative access to your Linux distribution.
 
-## step 0: Set DNS
+## Step 0: Set DNS
 1. Open a terminal.
 2. Run the following commands:
 ``` bash
