@@ -12,7 +12,14 @@ Before you begin, ensure that you have administrative access to your Linux distr
 ## step 0: Set DNS
 1. Open a terminal.
 2. Run the following commands:
-
+``` bash
+vi /etc/resolv.conf
+```
+3. Delete all lines and paste these DNS:
+```
+nameserver 178.22.122.100
+nameserver 185.51.200.2
+```
 
 ## Step 1: Install Docker
 
