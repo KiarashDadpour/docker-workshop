@@ -9,6 +9,9 @@
 
 Before you begin, ensure that you have administrative access to your Linux distribution.
 
+## step 0: Set DNS
+1. OPen a terminal. 
+
 ## Step 1: Install Docker
 
 ### Ubuntu/Debian:
