@@ -15,12 +15,12 @@ Before you begin, ensure that you have administrative access to your Linux distr
 ``` bash
 vi /etc/resolv.conf
 ```
-3. Delete all lines and paste these DNS:
+3. Press Enter and delete all lines and paste these DNS:
 ```
 nameserver 178.22.122.100
 nameserver 185.51.200.2
 ```
-4. Press "Esc + : + wq" for save resolv.conf file. 
+4. Press "Esc : wq" for save resolv.conf file. 
 
 ## Step 1: Install Docker
 
