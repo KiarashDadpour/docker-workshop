@@ -20,6 +20,7 @@ vi /etc/resolv.conf
 nameserver 178.22.122.100
 nameserver 185.51.200.2
 ```
+4. Press "Esc + : + wq" for save resolv.conf file. 
 
 ## Step 1: Install Docker
 
