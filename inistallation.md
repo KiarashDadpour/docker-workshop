@@ -67,6 +67,11 @@ docker pull mysql:latest
 docker pull nginx:latest
 
   ```
+- Ubuntu:
+```bash
+docker pull ubuntu:latest
+
+  ```
 - Redis:
 ```bash
 docker pull redis:latest
