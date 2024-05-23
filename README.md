@@ -16,3 +16,7 @@
 ## Date:
 #### Wednsday,  May  29,2024
 
+## Time:
+#### 1PM to 7PM
+
+
