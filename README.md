@@ -13,10 +13,10 @@
 - Docker compose and swarm
   - multi container programms 
      - 3rd mini project
-## Date:
+## Date & TTime:
 #### Wednsday,  May  29,2024
-
-## Time:
 #### 1PM to 7PM
+
+
 
 
