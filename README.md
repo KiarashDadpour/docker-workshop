@@ -13,9 +13,10 @@
 - Docker compose and swarm
   - multi container programms 
      - 3rd mini project
-## Date & TTime:
+## Date & Time:
 #### Wednsday,  May  29,2024
-#### 1PM to 7PM
+#### 1 PM to 7 PM
+#### Guilan University, Faculty of Mathematic Sciences
 
 
 
