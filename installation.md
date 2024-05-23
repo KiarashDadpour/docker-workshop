@@ -17,8 +17,8 @@ vi /etc/resolv.conf
 ```
 3. Press Enter and delete all lines and paste these DNS:
 ```
-nameserver 178.22.122.100
-nameserver 185.51.200.2
+nameserver 
+nameserver 
 ```
 4. Press "Esc : wq" for save resolv.conf file. 
 
