@@ -20,4 +20,5 @@
 
 ## Speakers:
 #### Dr.Seyed Amirhossein Tabatabaei [Assistant Professor, University of Guilan](https://scholar.google.com/citations?hl=en&user=HEBT11YAAAAJ)
+#### Seyede Asal Mahmoudi Nejhad Dezfouli: Bachelor of Applied Mathematics
 
