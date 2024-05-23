@@ -15,7 +15,7 @@
      - 3rd mini project
 ## Date & Time:
 #### Wednsday,  May  29,2024
-#### 1 PM to 7 PM
+#### 1 pm to 7 pm
 #### Guilan University, Faculty of Mathematic Sciences
 
 ## Speakers:
