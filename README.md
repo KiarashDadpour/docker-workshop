@@ -19,6 +19,7 @@
 #### Guilan University, Faculty of Mathematic Sciences
 
 ## Speakers:
-#### Dr.Seyed Amirhossein Tabatabaei [Assistant Professor, University of Guilan](https://scholar.google.com/citations?hl=en&user=HEBT11YAAAAJ)
-#### Seyede Asal Mahmoudi Nejhad Dezfouli: Bachelor of Applied Mathematics
+Dr.Seyed Amirhossein Tabatabaei [Assistant Professor, University of Guilan](https://scholar.google.com/citations?hl=en&user=HEBT11YAAAAJ)
+Seyede Asal Mahmoudi Nejhad Dezfouli: Bachelor of Applied Mathematics
+Kiarash Dadpour: Bachelor of Computer Science
 
