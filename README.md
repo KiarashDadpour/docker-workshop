@@ -1,6 +1,6 @@
 # Docker Workshop
 ## Syllables: 
-- ### Intro
+- ### Introduction 
    - what is the Docker ?
    - why we use Docker ?
    - where we should use Docker ?
