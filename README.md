@@ -15,7 +15,8 @@
       - Bind mounts
      
 - Docker compose and swarm
-  - multi container programms 
+  - multi container programms
+     - Dcoker Compose
      - 3rd mini project
 ## Date & Time:
 #### Wednsday,  May  29,2024
