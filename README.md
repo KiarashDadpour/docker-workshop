@@ -10,6 +10,8 @@
    - Docker images
    - Dockerfile
       - 2nd mini project
+   - Docker Storage
+     
 - Docker compose and swarm
   - multi container programms 
      - 3rd mini project
