@@ -1,7 +1,7 @@
 # Docker Workshop
 ## Syllables: 
 - ### Introduction 
-   - what is the Docker ?
+   - What Is the Docker ?
    - why we use Docker ?
    - where should we use Docker ?
    - Introduction to Linux Command Line
