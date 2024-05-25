@@ -17,7 +17,8 @@
 - Docker compose and swarm
   - multi container programms
     - 3rd mini project
-   
+- Final Project
+  
 ## Date & Time:
 #### Wednsday,  May  29,2024
 #### 1 pm to 7 pm
