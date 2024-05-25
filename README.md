@@ -3,7 +3,7 @@
 - ### Introduction 
    - What Is the Docker ?
    - Why We Use Docker ?
-   - Where should we use Docker ?
+   - Where Should we use Docker ?
    - Introduction to Linux Command Line
    - Introduction to MySQL Database
 - ### Docker images and containers
