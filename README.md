@@ -3,7 +3,7 @@
 - ### Introduction 
    - what is the Docker ?
    - why we use Docker ?
-   - where we should use Docker ?
+   - where should we use Docker ?
 - ### Docker images and containers
    - Docker containers
       - 1st mini project
