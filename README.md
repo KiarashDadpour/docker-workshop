@@ -12,6 +12,7 @@
       - 2nd mini project
    - Docker Storage
       - Volumes
+      - Bind mounts
      
 - Docker compose and swarm
   - multi container programms 
