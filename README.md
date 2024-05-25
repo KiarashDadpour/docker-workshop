@@ -27,5 +27,5 @@
 ## Speakers:
 #### - Dr.Seyed Amirhossein Tabatabaei [Assistant Professor, University of Guilan](https://scholar.google.com/citations?hl=en&user=HEBT11YAAAAJ)
 #### - Seyedeh Asal Mahmoudi Nejhad Dezfouli: Bachelor of Applied Mathematics Student
-#### - Kiarash Dadpour: Bachelor of Computer Science Student
+#### - Kiarash Dadpour: [Bachelor of Computer Science Student] (https://github.com/KiarashDadpour)
 
