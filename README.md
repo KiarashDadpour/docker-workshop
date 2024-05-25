@@ -16,8 +16,7 @@
      
 - Docker compose and swarm
   - multi container programms
-     - Dcoker Compose
-         - 3rd mini project
+    - 3rd mini project
    
 ## Date & Time:
 #### Wednsday,  May  29,2024
