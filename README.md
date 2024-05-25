@@ -2,7 +2,7 @@
 ## Syllables: 
 - ### Introduction 
    - What Is the Docker ?
-   - why we use Docker ?
+   - Why We Use Docker ?
    - where should we use Docker ?
    - Introduction to Linux Command Line
    - Introduction to MySQL Database
