@@ -4,7 +4,7 @@
    - what is the Docker ?
    - why we use Docker ?
    - where we should use Docker ?
-- Docker images and containers
+- ### Docker images and containers
    - Docker containers
       - 1st mini project
    - Docker images
@@ -14,10 +14,10 @@
       - Volumes
       - Bind mounts
      
-- Docker compose and swarm
+- ### Docker compose and swarm
   - multi container programms
     - 3rd mini project
-- Final Project
+- ### Final Project
   
 ## Date & Time:
 #### Wednsday,  May  29,2024
