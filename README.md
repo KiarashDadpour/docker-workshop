@@ -26,7 +26,7 @@
 ## Date & Time:
 ### Wednsday,  May  29,2024
 ### 1 pm to 7 pm
-#### Guilan University, Faculty of Mathematic Sciences
+### Guilan University, Faculty of Mathematic Sciences
 
 ## Speakers:
 #### - Dr.Seyed Amirhossein Tabatabaei [Assistant Professor, University of Guilan](https://scholar.google.com/citations?hl=en&user=HEBT11YAAAAJ)
