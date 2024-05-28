@@ -7,6 +7,7 @@
    - Introduction to Linux Command Line
    - Introduction to MySQL Database
    - Introduction to Computer Network
+     
 - ### Docker images and containers
    - Docker containers
       - 1st mini project
