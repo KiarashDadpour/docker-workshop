@@ -24,7 +24,7 @@
 - ### Final Project
   
 ## Date & Time:
-#### Wednsday,  May  29,2024
+### Wednsday,  May  29,2024
 #### 1 pm to 7 pm
 #### Guilan University, Faculty of Mathematic Sciences
 
