@@ -77,17 +77,17 @@ docker --version
 ## Step 4: Pull Docker Images
 - MySQL:
 ```bash
-docker pull mysql:latest
+docker image pull mysql:latest
 
 ```
 - Nginx:
 ```bash
-docker pull nginx:latest
+docker image pull nginx:latest
 
   ```
 - Ubuntu:
 ```bash
-docker pull ubuntu:latest
+docker image pull ubuntu:latest
 
   ```
 - Redis:
