@@ -7,7 +7,7 @@
 
 ## Prerequisites
 
-Before you begin, ensure that you have administrative access to your Linux distribution.
+Before you begin, ensure that you have administrative access to your Linux distribution. 
 
 ## Step 0: Set DNS
 1. Open a terminal.
