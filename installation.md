@@ -92,7 +92,7 @@ docker pull ubuntu:latest
   ```
 - Redis:
 ```bash
-docker pull redis:latest
+docker image pull redis:latest
 
   ```
 
