@@ -11,7 +11,7 @@
 - ### Docker images and containers 
    - Docker containers
       - 1st mini project
-   - Docker images 
+   - Docker images  
    - Dockerfile
       - 2nd mini project
    - Docker Storage
