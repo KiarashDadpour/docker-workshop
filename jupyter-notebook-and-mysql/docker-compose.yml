@@ -1,1 +1,25 @@
+version: '3.8'
 
+services:
+  jupyter:
+    image: jupyter/datascience-notebook:latest
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/home/jovyan/work  
+      - ./datasets:/home/jovyan/datasets  
+    environment:
+      - NB_UID=0  
+      - NB_GID=0
+
+  mysql:
+    image: mysql:latest
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: root  
+      MYSQL_DATABASE: mydb
+      MYSQL_USER: docker
+      MYSQL_PASSWORD: docker-pass
+    volumes:
+      - ./mysql_data:/var/lib/mysql  
