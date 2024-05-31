@@ -1,1 +1,2 @@
 ### 1. The Docker Book [Amazon.com](https://www.amazon.com/Docker-Book-James-Turnbull/dp/0988820234/ref=sr_1_5?crid=33Q2WX5W98NAF&dib=eyJ2IjoiMSJ9.eChyrxlukKEnTHesCzvU9dWofEB2ZQWgCkqLb5HCxNyPRCAv7aQkO8lLnN89I0e-VLfZZ_wpOIWLZRNqcrd-7_JV-XAMO8ZnQkvFkNmgdRyhlI9hVsgatpu6L53gkuHDDtHGyQQervmRfS_q8bauFfsS87knTrZaclpiEA1Pttftjy-DST6XZFRLLyO-dEgitwNX-quiNxKxHfZ3EqxkBvYBL-3p39CKHrKbADeOxVo.v1_-XmgJ6-mwqo8A0Z4PwkdX7syC9u-VoxRbE1tTKa4&dib_tag=se&keywords=the+docker+book&qid=1717183879&s=books&sprefix=the+do%2Cstripbooks%2C2693&sr=1-5)
+### 2. Docker: Up & Running [Amazon]()
