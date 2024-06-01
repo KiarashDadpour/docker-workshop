@@ -8,9 +8,9 @@
 ### Example Output
 ```
   Crypto USD Price
- BITCOIN $27,000.00
- ETHEREUM  $1,800.00
- DOGECOIN     $0.08
+ BITCOIN   $67,745.3
+ ETHEREUM  $3,794.68
+ DOGECOIN   $0.15976
   TETHER     $1.00
 
 ```bash
