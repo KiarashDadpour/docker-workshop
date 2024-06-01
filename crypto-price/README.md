@@ -1,4 +1,4 @@
-## Cryptocurrency Price Fetcher
+# Cryptocurrency Price Fetcher
 #### This Python script fetches the current prices of selected cryptocurrencies from the CoinGecko API and displays them in a formatted table using Pandas.
 ### Features
 
