@@ -21,5 +21,5 @@ ETHEREUM  $3,791.42
 ```
 2. Run a Docker Container from the image you build: 
 ```
-   docker container run --rm crypt:1.1
+   docker container run --rm crypt:1.0
 ```
