@@ -7,11 +7,11 @@
 
 ### Example Output
 ```bash
-  Crypto USD Price
+ Crypto USD Price
  BITCOIN   $67,745.3
  ETHEREUM  $3,794.68 
  DOGECOIN   $0.15976
-  TETHER     $1.00
+ TETHER     $1.00
 
 ```
 ### For use this program:
