@@ -22,7 +22,7 @@
     - 3rd mini project
 - ### Final Project
   - Dockerizing a Machine Learning Model
-  
+---
 ## Date & Time:
 ### Wednsday,  May  29,2024
 ### 1 pm to 7 pm
