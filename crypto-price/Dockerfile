@@ -9,9 +9,9 @@ WORKDIR /my-app
 COPY main.py .
 ENTRYPOINT python3 main.py
 # Base Image: Python
-# FROM python:3.9-slim
-# RUN mkdir /my-app
-# WORKDIR /my-app
+FROM python:3.9-slim
+RUN mkdir /my-app
+WORKDIR /my-app
 # RUN pip install pandas
 # RUN pip install requests
 # COPY main.py .
