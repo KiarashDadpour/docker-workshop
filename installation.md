@@ -2,7 +2,7 @@
 
 #### Welcome to the Docker workshop.
 #### This guide will help you set up your environment to participate in the workshop. 
-#### Please follow the steps below:
+#### Please follow the steps below :
 
 
 ## Prerequisites
