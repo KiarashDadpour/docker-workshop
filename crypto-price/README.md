@@ -23,3 +23,5 @@ ETHEREUM  $3,791.42
 ```
    docker container run --rm crypt:1.0
 ```
+Note:
+If you have a issue in creating Dockerfile please change your dns to;
