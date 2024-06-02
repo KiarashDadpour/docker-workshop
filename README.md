@@ -5,7 +5,7 @@
    - Why We Use Docker ?
    - Where Should We Use Docker ?
    - Introduction to Linux Command Line
-   - Introduction to MySQL Database
+   - Introduction to MYSQL Database
    - Introduction to Computer Network
       
 - ### Docker images and containers 
