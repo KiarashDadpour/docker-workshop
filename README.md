@@ -23,7 +23,7 @@
 - ### Final Project
   - Dockerizing a Machine Learning Model
 ---
-## Date & Time:
+##  Date & Time:
 ### Wednsday,  May  29,2024
 ### 1 pm to 7 pm
 ### Guilan University, Faculty of Mathematic Sciences
