@@ -18,4 +18,4 @@ if response.status_code == 200:
 
     print(df.to_string(index=False))
 else:
-    print("Error:", response.status_code)
+    print("Error :" , response.status_code)
