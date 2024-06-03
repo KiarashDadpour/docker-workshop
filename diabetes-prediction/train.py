@@ -26,7 +26,7 @@ from sklearn.linear_model import LogisticRegression
 
 logreg = LogisticRegression(class_weight='balanced', max_iter=1000).fit(X_train, y_train)
 # print(logreg.score(X_test, y_test))
-
+ 
 predictions = logreg.predict(X_test)
 
 # print(classification_report(y_test, predictions, target_names=["Non Outcome", "Outcome"]))
