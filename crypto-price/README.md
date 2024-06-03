@@ -26,6 +26,6 @@ ETHEREUM  $3,791.42
 Note:
 If you have an issue in creating Dockerfile please change your dns to:
 ```
-8.8.8.8
-8.8.4.4
+   8.8.8.8
+   8.8.4.4
 ```
